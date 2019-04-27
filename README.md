@@ -11,7 +11,16 @@ Just run the script build-diogenis.sh as root
 sudo build-diogenis.sh
 ```
 
-## usage
+## sample usage
 ```
-fortune diogenis
+$ fortune diogenis
+Δημόκριτος:
+
+    "Στα πάντα το ωραίο είναι το ίσο, δεν θεωρώ όμως 
+        σωστή ούτε την υπερβολή ούτε την έλλειψη"
+
+$
 ```
+
+## Links
+[fortune-mod](https://github.com/shlomif/fortune-mod)
