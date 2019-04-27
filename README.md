@@ -1,8 +1,10 @@
 # fortune-ancient-el
-Collection of ancient quotes in Greek for Unix fortune command
+Collection of ancient quotes in Greek (UTF-8) for Unix fortune command
 
 ## required
+
 1. fortune command (fortune-mod package)
+
 2. tcsh for installation
 
 ## install
@@ -22,5 +24,5 @@ $ fortune diogenis
 $
 ```
 
-## Links
+## links
 [fortune-mod](https://github.com/shlomif/fortune-mod)
