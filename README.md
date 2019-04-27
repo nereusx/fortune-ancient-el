@@ -5,12 +5,12 @@ Collection of ancient quotes in Greek (UTF-8) for Unix fortune command
 
 1. fortune command (fortune-mod package)
 
-2. tcsh for installation
+2. the tcsh for the installation
 
 ## install
 Just run the script build-diogenis.sh as root
 ```
-sudo build-diogenis.sh
+sudo build-diogenis.csh
 ```
 
 ## sample usage
