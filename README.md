@@ -10,7 +10,7 @@ Collection of ancient quotes in Greek (UTF-8) for Unix fortune command
 ## install
 Just run the script build-diogenis.sh as root
 ```
-sudo build-diogenis.csh
+sudo ./build-diogenis.csh
 ```
 
 ## sample usage
