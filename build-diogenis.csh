@@ -16,7 +16,10 @@
 #
 
 # destination directory
-set data=/usr/share/games/fortunes
+set data=/usr/share/fortunes
+if ( -d /usr/share/games/fortunes ) then
+	set data=/usr/share/games/fortunes
+endif
 
 #
 set todo = install
