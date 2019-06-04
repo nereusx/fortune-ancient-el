@@ -5,14 +5,12 @@ Collection of ancient quotes in Greek (UTF-8) for Unix fortune command
 
 1. fortune command (fortune-mod package)
 
-2. the tcsh for the installation
-
 ## install
-Just run the script build-diogenis.sh as root
+Just run the script install.sh as root
 ```
 git https://github.com/nereusx/fortune-ancient-el
 cd fortune-ancient-el
-sudo ./build-diogenis.csh
+sudo ./install.sh
 ```
 
 ## sample usage
